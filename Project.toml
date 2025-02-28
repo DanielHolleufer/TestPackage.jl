@@ -1,0 +1,4 @@
+name = "TestPackage"
+uuid = "b46ff10a-22a9-4faa-b966-a2e962f972e3"
+authors = ["Daniel Holleufer <daniel.holleufer@gmail.com>"]
+version = "0.1.0"
