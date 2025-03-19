@@ -1,6 +1,6 @@
 module TestPackage
 
-export plus_one
+export plus_one, plus_two
 
 greet() = print("Hello World!")
 
